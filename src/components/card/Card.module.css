@@ -1,0 +1,15 @@
+.cards {
+    width: 40%;
+    height: 30vh;
+    background-color: lightgreen;
+    margin: 1%;
+    box-shadow: 3px 2px white;
+    cursor: pointer;
+
+}
+
+.cards  div {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}

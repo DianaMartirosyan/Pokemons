@@ -1,0 +1,32 @@
+.section {
+    width: 90%;
+    height: 600vh;
+    margin: 0 auto;
+    background-color: lightgoldenrodyellow;
+}
+
+.content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.left_content, .right_content {
+    width: 50%;
+    margin: 1%;
+}
+
+
+.pokemons {
+    width: 200px;
+    height: 150px;
+    background-color: lightgreen;
+    margin: 2%;
+}
+
+.btn_group {
+    width: 30%;
+}
+
+.btn_group button {
+    margin: 1%;
+}
